@@ -196,7 +196,6 @@ public class App {
 				}
 				
 					
-
 			// Case D allows to exchange currencies
 			case 'D':
 				System.out.println("Enter how many years of accrued interest: ");
